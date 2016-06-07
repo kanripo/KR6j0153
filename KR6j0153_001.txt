@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:56.729050
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:27
 #+TITLE: 佛頂尊勝陀羅尼
 #+PROPERTY: CBETA_ID F27n1062
 #+PROPERTY: ID KR6j0153
 #+PROPERTY: SOURCE Fangshan shijing Vol. 27, No. 1062
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0153_F_001-0499a> 
 #+PROPERTY: JUAN 1
-
- 佛頂尊勝陁羅尼¶
+佛頂尊勝陁羅尼¶
 大契丹國師中天竺摩竭陁國三藏法師　慈賢　譯¶
 
 曩謨婆誐嚩帝(一)　[薩-產+(辛/工)]囉嚩(二合)怛[口*束*頁](二合)路枳也¶
 (二合)(二)　鉢囉(二合)底(三)　尾始瑟吒(二合)野(四)　沒䭾野¶
-(五)　婆誐嚩帝(六)　怛你也(二合)他唵(七)　哱[口*攏]哱[口*攏]¶
+(五)　婆誐嚩帝(六)　怛󲊛也(二合)他唵(七)　哱[口*攏]哱[口*攏]¶
 (八)　戍䭾野戍䭾野(九)　尾戍䭾野尾戍䭾野(十)¶
 　阿娑麼娑麼三滿哆(十一)　嚩婆娑(十二)　娑頗囉拏¶
 (十三)　誐帝櫱賀曩(十四)　誐誐曩(十五)　娑嚩(二合)婆嚩尾¶
